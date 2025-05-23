@@ -2,10 +2,9 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>Resource Hijacking Detection in OpenStack</title>
 </head>
 <body>
-  <h1>🔐 OpenStack 기반 Resource Hijacking 공격 탐지 및 대응 방안</h1>
+  <h2>🔐 OpenStack 기반 Resource Hijacking 공격 탐지 및 대응 방안</h2>
   <p><strong>프로젝트명:</strong> OpenStack Resource Hijacking Detection & Mitigation</p>
   <p><strong>팀명:</strong> K-Shield Jr. 10기 - Team F-04</p>
   <p><strong>팀원:</strong> 공종욱, 박민지, 이영준, 정지원, 지동혁</p><br>
